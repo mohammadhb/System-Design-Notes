@@ -2,7 +2,7 @@
 ### Responsiblities:
 - Routing External Requests ( Mapping Request to Services )
   
-Routing table:
+Routing table: (Can be later decoupled to `Service Registry`)
 
 | API Endpoints | Handler        |
 | :---:         | :---:          |
