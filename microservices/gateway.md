@@ -4,10 +4,10 @@
   
 Routing table:
 
-| API Endpoints | Handler     |
-| :---:         | :---:       |
-| register      | AuthService |
-| get-mails     | MailService |
+| API Endpoints | Handler        |
+| :---:         | :---:          |
+| register      | AuthService    |
+| updateProfile | ProfileService |
 
 - Blacklist IPs (With rate limiting)
 
